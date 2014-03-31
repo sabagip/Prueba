@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora y Conversor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="title_activity_conversor">Conversor</string>
+    <string name="titulo">Selecciona la imagen que desees</string>
+
+</resources>
